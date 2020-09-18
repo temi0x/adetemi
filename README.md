@@ -1,16 +1,16 @@
 # adetemi
 My portfolio Website
 
-You can find the demo [adetemi.vercel.app]here
+You can find the demo [here](adetemi.vercel.app)
 
 It was built with the following technologies
-• HTML
-• CSS
-• JAVASCRIPT
-• BOOTSTRAP
+- HTML
+- CSS
+- JAVASCRIPT
+- BOOTSTRAP
 
-UI kit from [ayroui.com]AyroUI
+UI kit from [AyroUI](ayroui.com)
 
 You can follow me on
-[twitter.com/adetemi03]Twitter
-[instagram.com/adetemi03] Instagram
+[Twitter](twitter.com/adetemi03)
+[Instagram](instagram.com/adetemi03)

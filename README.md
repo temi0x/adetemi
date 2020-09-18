@@ -9,8 +9,8 @@ It was built with the following technologies
 - JAVASCRIPT
 - BOOTSTRAP
 
-UI kit from [AyroUI](ayroui.com)
+UI kit from [AyroUI](https://ayroui.com)
 
 You can follow me on
-[Twitter](twitter.com/adetemi03)
-[Instagram](instagram.com/adetemi03)
+[Twitter](https://twitter.com/adetemi03)
+[Instagram](https://instagram.com/adetemi03)

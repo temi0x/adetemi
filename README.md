@@ -4,6 +4,8 @@ My portfolio Website
 
 You can find the demo [here](https://adetemi.vercel.app)
 
+Design by Deadkill
+
 It was built with the following technologies
 
 - HTML
